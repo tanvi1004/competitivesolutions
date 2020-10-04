@@ -3,8 +3,8 @@
 competitive solutions to various competitive programming sites
 
 Such as 
-1. Codechef
-2. Codeforces
+1. [Codechef](www.codechef.com)
+2. [Codeforces](www.codeforces.com)
 3. Topcoder
 4. Hackerearth
 
