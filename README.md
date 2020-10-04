@@ -3,7 +3,7 @@
 competitive solutions to various competitive programming sites
 
 Such as 
-1. [Codechef]http://codechef.com/()
+1. [Codechef](http://codechef.com/)
 2. [Codeforces](http://codeforces.com/)
 3. [Topcoder](https://www.topcoder.com/)
 4. [Hackerearth](https://www.hackerearth.com/)
